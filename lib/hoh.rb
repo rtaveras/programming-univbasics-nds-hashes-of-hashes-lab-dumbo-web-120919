@@ -31,7 +31,7 @@
 # }
 
 def naming_system
- {{label: "Kingdom",
+ {label: "Kingdom",
  sub_category: {
    label: "Phylum"},
    sub_category:{
@@ -41,6 +41,6 @@ def naming_system
    sub_category: {
      label: "Genus",
      label: "Species"},
-     sub_category: nil}
+     sub_category: nil
    }
 end
